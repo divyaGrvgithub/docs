@@ -4,7 +4,7 @@ intro: 'Get started using {% data variables.product.product_name %} to manage Gi
 versions:
   fpt: '*'
   ghes: '*'
-  ghae: '*'
+  ghae: '*'  
   ghec: '*'
 topics:
   - Pull requests
